@@ -4,11 +4,11 @@ In online fraud detection and prevention, machine learning is a collection of ar
 
 #team members#
 
-1  u.rohini - connection
-2  r.anusha - data collection
-3  g.anusha - frontend
-4  v.mounika - frontend
-5  y.pranathi - backend
-6  p.pravallika - connection
-7  n. prathyusha - backend
-8  s.harshitha - frontend
+1  u.rohini - connection ,
+2  r.anusha - data collection ,
+3  g.anusha - frontend ,
+4  v.mounika - frontend ,
+5  y.pranathi - backend ,
+6  p.pravallika - connection ,
+7  n. prathyusha - backend ,
+8  s.harshitha - frontend .
