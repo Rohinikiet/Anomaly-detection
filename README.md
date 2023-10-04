@@ -2,7 +2,7 @@
 
 In online fraud detection and prevention, machine learning is a collection of artificial intelligence (AI) algorithms trained with your historical data to suggest risk rules. You can then implement the rules to block or allow certain user actions, such as suspicious logins, identity theft, or fraudulent transactions.
 
-#team members
+#team members#
 
 1  u.rohini - connection
 2  r.anusha - data collection
