@@ -1,9 +1,8 @@
 # online_fraud-detection_projectnest
-![WhatsApp Image 2024-02-25 at 11 56 48 AM (1)](https://github.com/Rohinikiet/Anomaly-detection_projectnest/assets/96356862/b2136fd1-6ca8-451e-8dbe-da5521c40ccd)
-
+![WhatsApp Image 2024-02-25 at 11 56 48 AM](https://github.com/Rohinikiet/Anomaly-detection_projectnest/assets/96356862/36181dfe-bd05-4f48-8cc6-726db678c89b)
 
 In online fraud detection and prevention, machine learning is a collection of artificial intelligence (AI) algorithms trained with your historical data to suggest risk rules. You can then implement the rules to block or allow certain user actions, such as suspicious logins, identity theft, or fraudulent transactions.
 
-![WhatsApp Image 2024-02-25 at 11 56 48 AM](https://github.com/Rohinikiet/Anomaly-detection_projectnest/assets/96356862/36181dfe-bd05-4f48-8cc6-726db678c89b)
+![WhatsApp Image 2024-02-25 at 11 56 48 AM (1)](https://github.com/Rohinikiet/Anomaly-detection_projectnest/assets/96356862/b2136fd1-6ca8-451e-8dbe-da5521c40ccd)
 
 Online fraud detection refers to the process of identifying and preventing fraudulent activities conducted over the internet. It encompasses a range of techniques and technologies aimed at detecting and mitigating various forms of fraudulent behavior, such as identity theft, credit card fraud, phishing scams, and account takeovers. These systems utilize advanced algorithms, machine learning models, and data analytics to analyze vast amounts of transactional data in real-time, looking for patterns and anomalies that may indicate fraudulent activity. They often employ a combination of rule-based systems, anomaly detection, behavior analysis, and predictive modeling to identify suspicious transactions or behaviors. Additionally, online fraud detection systems may integrate with other security measures such as multi-factor authentication and biometric verification to enhance security and reduce the risk of fraudulent activities. Continuous monitoring and adaptive learning are essential components of effective fraud detection systems, as they enable the system to evolve and adapt to new and emerging threats. Overall, online fraud detection plays a crucial role in safeguarding online transactions, protecting consumers, businesses, and financial institutions from financial losses and reputational damage caused by fraudulent activities.
