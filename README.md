@@ -1,4 +1,4 @@
-# online_fraud-detection_projectnest
+# online_fraud-detection
 ![WhatsApp Image 2024-02-25 at 11 56 48 AM](https://github.com/Rohinikiet/Anomaly-detection_projectnest/assets/96356862/36181dfe-bd05-4f48-8cc6-726db678c89b)
 
 In online fraud detection and prevention, machine learning is a collection of artificial intelligence (AI) algorithms trained with your historical data to suggest risk rules. You can then implement the rules to block or allow certain user actions, such as suspicious logins, identity theft, or fraudulent transactions.
